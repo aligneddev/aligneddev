@@ -8,3 +8,5 @@ Connect:
 <a href="https://twitter.com/aligneddev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 Learn more about me at [aligneddev.net](https://www.alignedev.net)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aligneddev)](https://github.com/aligneddev/github-readme-stats)
