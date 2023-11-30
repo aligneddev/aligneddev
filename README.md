@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Kevin Logan
+My name is Kevin
 
 Connect:
 
